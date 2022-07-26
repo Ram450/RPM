@@ -1,0 +1,60 @@
+{
+  "#comment": "",
+  "html": {
+    "head": {
+      "title": "Ram Demo"
+    },
+    "body": {
+      "h2": {
+        "@style": "color:blue;",
+        "#text": "WELCOME TO RAM'S DEMO SESSION"
+      },
+      "blockquote": [
+        {
+          "h3": {
+            "@style": "color:green;",
+            "#text": "Session:1"
+          },
+          "p": [
+            {
+              "@style": "color:red;",
+              "#text": "GIT"
+            },
+            {
+              "@style": "color:red;",
+              "#text": "GIT HUB"
+            },
+            {
+              "@style": "color:red;",
+              "#text": "Code PUSH to Remote Repo"
+            }
+          ]
+        },
+        {
+          "h3": {
+            "@style": "color:green;",
+            "#text": "Session :2"
+          },
+          "p": [
+            {
+              "@style": "color:red;",
+              "#text": "JENKIN"
+            },
+            {
+              "@style": "color:red;",
+              "#text": "GIT Integration with JENKINS"
+            },
+            {
+              "@style": "color:red;",
+              "#text": "Jenkin Integration with TOMCAT Server"
+            },
+            {
+              "@style": "color:red;",
+              "#text": "Code Deploying into Server"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
